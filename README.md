@@ -15,12 +15,12 @@ GluonCV는 컴퓨터 비전에 특화된 Apache MXNet의 딥러닝 툴킷입니�
 
 **Agenda**
 
-| Time       | Title                                                        | Slides | Notebooks |
-| ---------- | ------------------------------------------------------------ | ------ | --------- |
-| 12:45-1:45 | Lecture 1: SageMaker GroundTruth<br />Lab 1: Data Preparation | TBD    | TBD       |
-| 2:00-3:00  | Lecture 2: MXNet / GLuonCV Overview                          | TBD    |           |
-| 3:15-4:15  | Lab 2: GluonCV Model Zoo                                     |        | TBD       |
-| 4:30-5:30  | Lecture 3: AWS DeepLens<br />Lab 3: Deploy                   | TBD    | TBD       |
+| Time       | Title                                                        | Slides                                                       | Notebooks                                                    |
+| ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 12:45-1:45 | Lecture 1: SageMaker GroundTruth<br />Lab 1: Data Preparation | [link](slides/DevDay HOL GluonCV - Lecture 1.pdf)            | [link1](lab1-data-preparation/gluoncv-lab1.1-labelling.ipynb), [link2](lab1-data-preparation/gluoncv-lab1.2-creating-recordio.ipynb) |
+| 2:00-3:00  | Lecture 2: MXNet / GLuonCV Overview                          | [link1](slides/DevDay HOL GluonCV - Lecture 2-1.pdf), [link2](DevDay HOL GluonCV - Lecture 2-2.pdf) |                                                              |
+| 3:15-4:15  | Lab 2: GluonCV Model Zoo                                     |                                                              | [link1](lab2-gluoncv/gluoncv-lab2.1-pretrained.ipynb), [link2](lab2-gluoncv/gluoncv-lab2.2-transfer-learning.ipynb), [link3](lab2-gluoncv/gluoncv-lab2.3-transfer-learning-yolov3.ipynb) |
+| 4:30-5:30  | Lecture 3: AWS DeepLens<br />Lab 3: Deploy                   | [link](slides/DevDay HOL GluonCV - Lecture 3.pdf)            | [link](lab3-deeplens/gluoncv-lab3-deeplens.ipynb)            |
 
-
+**Lab Guide**: [download](slides/DevDay HOL GluonCV - Lab Guide.pdf)
 

@@ -9,10 +9,10 @@ Lab 1은 두 가지 모듈로 구성되어 있습니다. 첫 번째 모듈 Lab 1
 
 **Agenda**
 
-| Module  | Title                                      |
-| ------- | ------------------------------------------ |
-| Lab 1.1 | **gluoncv-lab1.1-labelling.ipynb**         |
-| Lab 1.2 | **gluoncv-lab1.2-creating-recordio.ipynb** |
+| Module  | Title                                                        |
+| ------- | ------------------------------------------------------------ |
+| Lab 1.1 | [gluoncv-lab1.1-labelling.ipynb](gluoncv-lab1.1-labelling.ipynb) |
+| Lab 1.2 | [gluoncv-lab1.2-creating-recordio.ipynb](gluoncv-lab1.2-creating-recordio.ipynb) |
 
 
 

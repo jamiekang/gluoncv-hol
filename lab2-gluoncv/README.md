@@ -11,11 +11,11 @@ Lab 2는 세 가지 모듈로 구성되어 있습니다. 첫 번째 모듈 Lab 2
 
 **Agenda**
 
-| Module  | Title                                             |
-| ------- | ------------------------------------------------- |
-| Lab 2.1 | **gluoncv-lab2.1-pretrained.ipynb**               |
-| Lab 2.2 | **gluoncv-lab2.2-transfer-learning.ipynb**        |
-| Lab 2.3 | **gluoncv-lab2.3-transfer-learning-yolov3.ipynb** |
+| Module  | Title                                                        |
+| ------- | ------------------------------------------------------------ |
+| Lab 2.1 | [gluoncv-lab2.1-pretrained.ipynb](gluoncv-lab2.1-pretrained.ipynb) |
+| Lab 2.2 | [gluoncv-lab2.2-transfer-learning.ipynb](gluoncv-lab2.2-transfer-learning.ipynb) |
+| Lab 2.3 | [gluoncv-lab2.3-transfer-learning-yolov3.ipynb](gluoncv-lab2.3-transfer-learning-yolov3.ipynb) |
 
 
 

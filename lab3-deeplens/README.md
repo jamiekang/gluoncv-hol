@@ -11,9 +11,9 @@ Lab 3에서는 앞의 lab에서 만든 object detection 모델을 `AWS DeepLens`
 
 **Agenda**
 
-| Module | Title                           |
-| ------ | ------------------------------- |
-| Lab 3  | **gluoncv-lab3-deeplens.ipynb** |
+| Module | Title                                                      |
+| ------ | ---------------------------------------------------------- |
+| Lab 3  | [gluoncv-lab3-deeplens.ipynb](gluoncv-lab3-deeplens.ipynb) |
 
 
 
