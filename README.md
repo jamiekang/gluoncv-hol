@@ -22,5 +22,5 @@ GluonCV는 컴퓨터 비전에 특화된 Apache MXNet의 딥러닝 툴킷입니�
 | 3:15-4:15  | Lab 2: GluonCV Model Zoo                                     | -                                                            | [link1](lab2-gluoncv/gluoncv-lab2.1-pretrained.ipynb), [link2](lab2-gluoncv/gluoncv-lab2.2-transfer-learning.ipynb), [link3](lab2-gluoncv/gluoncv-lab2.3-transfer-learning-yolov3.ipynb) |
 | 4:30-5:30  | Lecture 3: AWS DeepLens<br />Lab 3: Deploy                   | [link](slides/devday-hol-gluoncv-lecture-3.pdf)              | [link](lab3-deeplens/gluoncv-lab3-deeplens.ipynb)            |
 
-**Lab Guide**: [download](slides/devday-hol-gluoncv-lab-guide.pdf)
+**Lab Guide**: [download](http://bit.ly/gluoncv2019)
 
